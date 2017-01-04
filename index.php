@@ -25,6 +25,7 @@
 
 <body id="top" onscroll="ScrollingNavbar()">
     <!-- Start project here-->
+        <?php include 'inc/functions.php'?>
         <?php include 'inc/nav.php' ?>
         <?php include 'inc/header.php'?>
         <?php include 'inc/about.php' ?>

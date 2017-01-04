@@ -26,7 +26,7 @@
                         Bootstrap
                     </li>
                     <li class="list-group-item custom-list-item">
-                        W3C Compliance 
+                        jQuery 
                     </li>
                 </ul>
             </div><!-- /Development -->
@@ -57,26 +57,26 @@
             </div><!-- /Design -->
             <!-- Other -->
             <div class="col-md-12 col-lg-4 center-text">
-                <i class="fa fa-star custom-fa blue-text"></i>
+                <i class="fa fa-star custom-fa orange-text"></i>
                 <h4 class="feature-title text-xs-center">Other</h4>
                 <ul>
                     <li class="list-group-item custom-list-item">
                         Git
                     </li>
                     <li class="list-group-item custom-list-item">
-                        SEO Optimization
+                        Templates
                     </li>
                     <li class="list-group-item custom-list-item">
                         Package management
                     </li>
                     <li class="list-group-item custom-list-item">
-                        Google Tag Manager
+                        W3C Compliance
                     </li>
                     <li class="list-group-item custom-list-item">
-                        Marketing Automation
+                        Accessibility
                     </li>
                     <li class="list-group-item custom-list-item" id="gallery" >
-                        Brandflow
+                        SEO Optimization
                     </li>
                 </ul>
             </div>

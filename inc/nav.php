@@ -23,16 +23,16 @@
             </ul>
             <ul class="nav navbar-nav float-sm-right hidden-xs">
                 <li class="nav-item float-xs-left">
-                    <a class="nav-link" href=""><i class="fa fa-facebook"></i></a>
+                    <a class="nav-link" href="" target="_blank"><i class="fa fa-facebook"></i></a>
                 </li>
                 <li class="nav-item float-xs-left">
-                    <a class="nav-link" href=""><i class="fa fa-github"></i></a>
+                    <a class="nav-link" href="https://github.com/ChimeraBlack1" target="_blank"><i class="fa fa-github"></i></a>
                 </li>
                 <li class="nav-item float-xs-left">
-                    <a class="nav-link" href=""><i class="fa fa-linkedin"></i></a>
+                    <a class="nav-link" href="https://ca.linkedin.com/in/christopher-parke" target="_blank"><i class="fa fa-linkedin"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href=""><i class="fa fa-youtube"></i></a>
+                    <a class="nav-link" href="https://www.youtube.com/channel/UCux4O2wHEeE6IdaO3zVnJig" target="_blank"><i class="fa fa-youtube"></i></a>
                 </li>
             </ul>
         </div>        
