@@ -1,0 +1,86 @@
+<!-- Skills -->
+<div class="container">
+    <section id="skills" class="section p-t-3 ">
+        <h1 class="section-heading custom-section-heading">Skills</h1>
+        <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet maiores aspernatur aut animi debitis. Ad excepturi dolor tempora at aperiam earum veritatis ullam. Culpa tempora possimus necessitatibus excepturi, quisquam officia.</p>
+        
+        <div class="row features-big wow fadeIn" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+            <div class="col-md-12 col-lg-4 center-text">
+                <!-- /Development -->
+                <i class="fa fa-wrench custom-fa purple-text"></i>
+                <h4 class="feature-title text-xs-center">Development</h4>
+                <ul>
+                    <li class="list-group-item custom-list-item">
+                        HTML5
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        CSS3
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        JavaScript
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        React.js
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Bootstrap
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        W3C Compliance 
+                    </li>
+                </ul>
+            </div><!-- /Development -->
+            <!-- Design -->
+            <div class="col-md-12 col-lg-4 center-text">
+                <i class="fa fa-paint-brush custom-fa teal-text"></i>
+                <h4 class="feature-title text-xs-center">Design</h4>
+                <ul>
+                    <li class="list-group-item custom-list-item">
+                        Adobe Photoshop
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Adobe Illustrator
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Adobe Premiere
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Material Design
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Responsive Web Design
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        UI/UX Design
+                    </li>
+                </ul>
+            </div><!-- /Design -->
+            <!-- Other -->
+            <div class="col-md-12 col-lg-4 center-text">
+                <i class="fa fa-star custom-fa blue-text"></i>
+                <h4 class="feature-title text-xs-center">Other</h4>
+                <ul>
+                    <li class="list-group-item custom-list-item">
+                        Git
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        SEO Optimization
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Package management
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Google Tag Manager
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        Marketing Automation
+                    </li>
+                    <li class="list-group-item custom-list-item" id="gallery" >
+                        Brandflow
+                    </li>
+                </ul>
+            </div>
+            <!-- /Other -->
+        </div>
+    </section>
+<!-- /Skills -->
