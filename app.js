@@ -26,3 +26,33 @@ function ScrollingNavbar() {
         
     }
 }
+
+
+function Warning() {
+    $('.error').each(function () {
+        if(!this.innerHTML == "") {
+            $(this).addClass('alert alert-danger');
+        }
+    });
+}
+
+$(document).ready(Warning());
+
+$(document).on("submit", "form", function(event)
+{
+    event.preventDefault();
+
+    var url=$("form").attr("action");
+    $.ajax({
+        url: url,
+        type: 'POST',            
+        data: new FormData(this),
+        processData: false,
+        contentType: false,
+        success: function (data, status)
+        {
+            console.log(data);
+        }
+    });
+});
+

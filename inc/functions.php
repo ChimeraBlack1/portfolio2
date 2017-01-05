@@ -44,15 +44,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         mail($to,$subject,$message,$headers);
         echo $emailSuccess;
-    
     }
 }
 
 function test_input($data) {
     return htmlspecialchars(stripslashes(trim($data)));
 }
-
-
 
 
 

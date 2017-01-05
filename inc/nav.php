@@ -7,17 +7,17 @@
         <div class="collapse navbar-toggleable-xs" id="collapseButton">
             <a class="navbar-brand custom-navbrand" href="#top">Christopher Parke</a>
             <ul class="nav navbar-nav">
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="#about">About</a>
                 </li>
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="#skills">Skills
                     </a>
                 </li>
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="#gallery">Portfolio</a>
                 </li>
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="#contact">Contact</a>
                 </li>
             </ul>

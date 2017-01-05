@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="md-form center">
-                        <input type="text" id="form41" name="name" class="form-control" value="<?php echo $name ?>" />
+                        <input type="text" id="form41" name="name" class="form-control" value="<?php echo $name; ?>" />
                         <span class="error"><?php echo $nameErr; ?></span>
                         <label for="form41" class="">Your Name</label>
                     </div>
@@ -30,14 +30,14 @@
                 </div>
                 <div class="col-md-12">
                     <div class="md-form">
-                        <textarea type="text" id="form76" name="message" class="md-textarea" value="<?php echo $message?>"></textarea>
-                        <span class="error"><?php echo $messageErr; ?></span>
+                        <textarea type="text" id="form76" name="message" class="md-textarea"><?php echo $message; ?></textarea>
+                        <span class="error" style="display:inline-block;"><?php echo $messageErr; ?></span>
                         <label for="form76" class="">Your Message</label>
                     </div>
                 </div>
-                <div class="col-md-2"></div>
             </div>
         </div>
+        
         <div class="center-on-small-only">
             <button type="submit" name="submit" class="btn btn-ins dark-blue">Send</button>
         </div>

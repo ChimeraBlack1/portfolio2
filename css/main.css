@@ -76,10 +76,11 @@
 
 .small {
     padding: 0.75rem;
+	font-size: 1.2em!important;
 }
 
 .navbar ul {
-    font-size: 1em!important;
+    font-size: 1.1rem!important;
 }
 
 .dark-blue {
@@ -147,6 +148,11 @@
 .img-fluid {
     width: 100%;
     margin-bottom: 1rem;
+}
+
+.block {
+    display: block!important;
+    width: 188px!important;
 }
 
 /*
