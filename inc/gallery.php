@@ -35,7 +35,7 @@
                 </div>
                 <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectFive">
-                        <img src="img/sm-hill-town.jpg" class="img-fluid">
+                        <img src="img/sm-forest-meadow.jpeg" class="img-fluid">
                     </a>
                 </div>
                 <div class="col-md-4">
@@ -145,7 +145,7 @@
             </div>
             <div class="modal-body">
                 
-                <img src="img/sm-balloon-hills.jpeg" class="img-fluid" />
+                <img src="img/sm-forest-meadow.jpeg" class="img-fluid" />
             </div>
         </div>
     </div>
@@ -163,7 +163,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                <img src="img/sm-hill-town.jpg" class="img-fluid" />
             </div>
         </div>
     </div>
@@ -182,7 +182,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                <img src="img/sm-italian-landscape-mountains.jpg" class="img-fluid" />
             </div>
         </div>
     </div>
@@ -202,7 +202,7 @@
             </div>
             <div class="modal-body">
                 
-                <img src="img/sm-balloon-hills.jpeg" class="img-fluid" />
+                <img src="img/sm-milkyWay.jpeg" class="img-fluid" />
             </div>
         </div>
     </div>
@@ -220,7 +220,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                <img src="img/sm-quaint-house.jpeg" class="img-fluid" />
             </div>
         </div>
     </div>
@@ -239,7 +239,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                <img src="img/sm-waterfall.jpg" class="img-fluid" />
             </div>
         </div>
     </div>
