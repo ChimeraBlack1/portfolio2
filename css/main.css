@@ -155,6 +155,24 @@
     width: 188px!important;
 }
 
+.custom-button {
+	margin-top:2em;
+}
+
+/* Successful mail sent message */
+
+span {
+	display: inline-block;
+}
+
+
+.successMessage {
+	margin: 0 auto;
+	max-width: 250px;
+	font-size: 2em;
+}
+
+
 /*
     Media Queries
 */

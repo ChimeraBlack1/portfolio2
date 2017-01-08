@@ -64,7 +64,7 @@
                         Git
                     </li>
                     <li class="list-group-item custom-list-item">
-                        Templates
+                        Wordpress
                     </li>
                     <li class="list-group-item custom-list-item">
                         Package management

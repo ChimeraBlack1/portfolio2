@@ -2,7 +2,7 @@
     <h1 class="section-heading custom-section-heading">
         Portfolio
     </h1>
-    <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia iste provident, voluptatum voluptatibus aut modi aspernatur autem impedit, eius, debitis earum voluptatem. Quaerat hic aspernatur laborum magni earum. At, officiis!</p>
+    <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, Wordpress and React.js.  </p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -125,7 +125,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                <img src="img/sm-bridge-city.jpg" class="img-fluid" />
             </div>
         </div>
     </div>

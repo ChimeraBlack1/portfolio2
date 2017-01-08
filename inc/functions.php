@@ -37,6 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     //send email if there are no error messages
     if($nameErr == "" && $emailErr == "" && $subjectErr == "" && $messageErr == "") {
+		
         $to = "onlythebest@christopherparke.com";
         $from = $email;
         $headers = "From:". $from;
@@ -50,8 +51,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 function test_input($data) {
     return htmlspecialchars(stripslashes(trim($data)));
 }
-
-
-
 
 ?>

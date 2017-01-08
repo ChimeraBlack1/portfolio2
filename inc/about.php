@@ -15,7 +15,7 @@
                 </p>
                 <p>
                     <span>
-                        I believe that working with code is like being a wizard.  instead of a spellbook, I have a box made of refined dinosaur bone that's powered by lightining.
+                        I believe that working with code is like being a wizard.  Instead of a spellbook, I have a box made of refined dinosaur bone that's powered by lightning.
                     </span>
                 </p>
                 <p>
