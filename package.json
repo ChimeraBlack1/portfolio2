@@ -1,0 +1,19 @@
+{
+  "name": "portfolio2",
+  "version": "1.0.0",
+  "description": "Material Design for Bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChimeraBlack1/portfolio2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChimeraBlack1/portfolio2/issues"
+  },
+  "homepage": "https://github.com/ChimeraBlack1/portfolio2#readme"
+}
