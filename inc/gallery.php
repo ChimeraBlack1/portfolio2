@@ -2,7 +2,7 @@
     <h1 class="section-heading custom-section-heading">
         Portfolio
     </h1>
-    <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, Wordpress and React.js.  </p>
+    <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, and React.js.  </p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">

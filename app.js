@@ -105,9 +105,6 @@ $(document).ready(function () {
 					$('#successMessage').addClass('successMessage alert alert-success');
 					$("#successMessage").html("Mail Sent!");
 
-					
-
-
 				}
 			});
 
