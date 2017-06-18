@@ -2,7 +2,7 @@
 <div class="container">
     <section id="skills" class="section p-t-3 ">
         <h1 class="section-heading custom-section-heading">Skills</h1>
-        <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet maiores aspernatur aut animi debitis. Ad excepturi dolor tempora at aperiam earum veritatis ullam. Culpa tempora possimus necessitatibus excepturi, quisquam officia.</p>
+        <p class="section-description">Here are some of the common languages, frameworks, and other skills I have that relate to front end development.</p>
         
         <div class="row features-big wow fadeIn" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
             <div class="col-md-12 col-lg-4 center-text">

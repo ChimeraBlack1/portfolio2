@@ -9,12 +9,12 @@
                 <!-- Gallery Row 1 -->
                 <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectOne">
-                        <img src="img/sm-balloon-hills.jpeg" class="img-fluid" />
+                        <img src="img/op/mmtOP.jpg" class="img-fluid" />
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectTwo">
-                        <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                        <img src="img/op/gameOP.jpg" class="img-fluid" />
                     </a>
                 </div>
                 <div class="col-md-4">
@@ -23,48 +23,6 @@
                     </a>
                 </div>
                 <!-- /Gallery Row 1 -->
-            </div>
-        </div>
-         <div class="row">
-            <div class="col-md-12">
-                <!-- Gallery Row 2 -->
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectFour">
-                        <img src="img/sm-forest-meadow.jpeg" class="img-fluid">
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectFive">
-                        <img src="img/sm-forest-meadow.jpeg" class="img-fluid">
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectSix">
-                        <img src="img/sm-italian-landscape-mountains.jpg" class="img-fluid">
-                    </a>
-                </div>
-                <!-- /Gallery Row 2 -->
-            </div>
-        </div>
-         <div class="row">
-            <div class="col-md-12">
-                <!-- Gallery Row 3 -->
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectSeven">
-                        <img src="img/sm-milkyWay.jpeg" class="img-fluid">
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectEight">
-                        <img src="img/sm-quaint-house.jpeg" class="img-fluid">
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectNine">
-                        <img src="img/sm-waterfall.jpg" class="img-fluid">
-                    </a>
-                </div>
-                <!-- /Gallery Row 3 -->
             </div>
         </div>
     </div>
@@ -81,14 +39,19 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header center-text">
-                <span>Project One</span>
+                <span>Meadowvale Music Theatre</span>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span>&times;</span>                
                 </button>
             </div>
             <div class="modal-body">
-                
-                <img src="img/sm-balloon-hills.jpeg" class="img-fluid" />
+                <a href="http://www.christopherparke.com/mmt">
+                    <img src="img/op/mmtOP.jpg" class="img-fluid" />
+                </a>
+            </div>
+            
+            <div class="card">
+                <p class="card-text center-text">This project was completed for the Meadowvale Music theatre group. This website was built using Bootstrap, jQuery and JavaScript and the form validation is PHP.</p>
             </div>
         </div>
     </div>
@@ -100,13 +63,19 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header center-text">
-                <span>Project Two</span>
+                <span>Triple Triad</span>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span>&times;</span>                
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-beach-rocks.jpg" class="img-fluid" />
+                <a href="http://christopherparke.com/game">
+                    <img src="img/op/gameOP.jpg" class="img-fluid" />
+                </a>
+            </div>
+            
+            <div class="card">
+                <p class="card-text center-text">This is my own personal remake of a favourite mini-game from Final Fantasy 8.  The AI is hand crafted in JavaScript and jQuery.  No framework was used on this version of the project.  I wanted to achieve a responsive design that existed completely above the fold, and felt as close to a native game as possible.</p>
             </div>
         </div>
     </div>
@@ -133,118 +102,6 @@
 <!-- /Modal Three-->
 
 
-<!-- Modal Four-->
-<div class="modal fade" id="projectFour" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header center-text">
-                <span>Project Four</span>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span>&times;</span>                
-                </button>
-            </div>
-            <div class="modal-body">
-                
-                <img src="img/sm-forest-meadow.jpeg" class="img-fluid" />
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /Modal Four-->
-
-<!-- Modal Five-->
-<div class="modal fade" id="projectFive" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header center-text">
-                <span>Project Five</span>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span>&times;</span>                
-                </button>
-            </div>
-            <div class="modal-body">
-                <img src="img/sm-hill-town.jpg" class="img-fluid" />
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /Modal Five-->
-
-
-<!-- Modal Six-->
-<div class="modal fade" id="projectSix" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header center-text">
-                <span>Project Six</span>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span>&times;</span>                
-                </button>
-            </div>
-            <div class="modal-body">
-                <img src="img/sm-italian-landscape-mountains.jpg" class="img-fluid" />
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /Modal Six-->
-
-
-<!-- Modal Seven-->
-<div class="modal fade" id="projectSeven" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header center-text">
-                <span>Project Seven</span>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span>&times;</span>                
-                </button>
-            </div>
-            <div class="modal-body">
-                
-                <img src="img/sm-milkyWay.jpeg" class="img-fluid" />
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /Modal Seven-->
-
-<!-- Modal Eight-->
-<div class="modal fade" id="projectEight" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header center-text">
-                <span>Project Eight</span>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span>&times;</span>                
-                </button>
-            </div>
-            <div class="modal-body">
-                <img src="img/sm-quaint-house.jpeg" class="img-fluid" />
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /Modal Eight-->
-
-
-<!-- Modal Nine-->
-<div class="modal fade" id="projectNine" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header center-text">
-                <span>Project Nine</span>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span>&times;</span>                
-                </button>
-            </div>
-            <div class="modal-body">
-                <img src="img/sm-waterfall.jpg" class="img-fluid" />
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /Modal Nine-->
 
 <!-- 
 
