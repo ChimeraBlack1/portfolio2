@@ -3,9 +3,11 @@
 
 <head>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <meta name="description" content="Christopher Parke's Portfolio Site">
+    <meta name="keywords" content="HTML,CSS,React,JavaScript,Christopher,Parke,Portfolio,Front End, Web Developer">
+    <meta name="author" content="Christopher Parke">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Christopher Parke - Front End Developer</title>
 

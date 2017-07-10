@@ -1,11 +1,12 @@
 <section class="section p-b-3 p-t-3" id="contact">
-    <h1 class="section-heading custom-section-heading">Contact me</h1>
+    <h2 class="section-heading custom-section-heading">Contact me</h2>
     <p class="section-description">
    Thanks for coming! It was great having you! If you'd like to get in touch with me for a project or a position, please let me know by either emailing me or filling out the below contact form.  You can find my email on the footer of the page.  Cheers! 
     </p>
 	
 	
-    <form method="POST" action="<?php echo htmlspecialchars($_SERVER["inc/process.php"]); ?>">
+    <form method="POST" action="#">
+        <script>document.querySelector("form").setAttribute("action", "<?php echo htmlspecialchars($_SERVER["inc/process.php"]); ?>")</script>
         <div class="container col-lg-12">
             <div class="row">
                 <div class="col-md-6">
@@ -32,7 +33,7 @@
                 </div>
                 <div class="col-md-12">
                     <div class="md-form">
-                        <textarea type="text" id="form76" name="message" class="md-textarea"></textarea>
+                        <textarea id="form76" name="message" class="md-textarea"></textarea>
                         <label for="form76" class="">Your Message</label>
                     </div>
 					<span id="messageErr" class="errorTxt"></span>

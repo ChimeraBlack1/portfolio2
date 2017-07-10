@@ -1,7 +1,7 @@
 <!-- Skills -->
 <div class="container">
     <section id="skills" class="section p-t-3 ">
-        <h1 class="section-heading custom-section-heading">Skills</h1>
+        <h2 class="section-heading custom-section-heading">Skills</h2>
         <p class="section-description">Here are some of the common languages, frameworks, and other skills I have that relate to front end development.</p>
         
         <div class="row features-big wow fadeIn" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
@@ -64,16 +64,16 @@
                         Git
                     </li>
                     <li class="list-group-item custom-list-item">
-                        Wordpress
+                        ES6
                     </li>
                     <li class="list-group-item custom-list-item">
-                        Package management
-                    </li>
-                    <li class="list-group-item custom-list-item">
-                        W3C Compliance
+                        SASS
                     </li>
                     <li class="list-group-item custom-list-item">
                         Accessibility
+                    </li>
+                    <li class="list-group-item custom-list-item">
+                        W3C Compliance
                     </li>
                     <li class="list-group-item custom-list-item" id="gallery" >
                         SEO Optimization

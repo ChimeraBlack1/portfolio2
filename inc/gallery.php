@@ -1,25 +1,25 @@
 <section class="section">
-    <h1 class="section-heading custom-section-heading">
+    <h2 class="section-heading custom-section-heading">
         Portfolio
-    </h1>
+    </h2>
     <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, and React.js.  </p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <!-- Gallery Row 1 -->
                 <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectOne">
-                        <img src="img/op/mmtOP.jpg" class="img-fluid" />
+                    <a href="#" data-toggle="modal" data-target="#projectOne" >
+                        <img src="img/op/mmtOP.jpg" class="img-fluid" alt="Meadowvale Musical Theatre profile page." />
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectTwo">
-                        <img src="img/op/gameOP.jpg" class="img-fluid" />
+                        <img src="img/op/gameOP.jpg" class="img-fluid" alt="Triple Triad Remake"/>
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectThree">
-                        <img src="img/sm-bridge-city.jpg" class="img-fluid" />
+                        <img src="img/op/holy.jpg" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
                     </a>
                 </div>
                 <!-- /Gallery Row 1 -->
@@ -35,7 +35,7 @@
 -->
 
 <!-- Modal One-->
-<div class="modal fade" id="projectOne" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="projectOne" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header center-text">
@@ -45,8 +45,8 @@
                 </button>
             </div>
             <div class="modal-body">
-                <a href="http://www.christopherparke.com/mmt">
-                    <img src="img/op/mmtOP.jpg" class="img-fluid" />
+                <a href="http://www.christopherparke.com/mmt" target="_blank">
+                    <img src="img/op/mmtOP.jpg" class="img-fluid" alt="Meadowvale Musical Theatre profile page."/>
                 </a>
             </div>
             
@@ -59,7 +59,7 @@
 <!-- /Modal One-->
 
 <!-- Modal Two-->
-<div class="modal fade" id="projectTwo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="projectTwo" tabindex="-1" role="dialog" >
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header center-text">
@@ -69,8 +69,8 @@
                 </button>
             </div>
             <div class="modal-body">
-                <a href="http://christopherparke.com/game">
-                    <img src="img/op/gameOP.jpg" class="img-fluid" />
+                <a href="http://christopherparke.com/game" target="_blank">
+                    <img src="img/op/gameOP.jpg" class="img-fluid" alt="Triple Triad Remake" />
                 </a>
             </div>
             
@@ -84,17 +84,22 @@
 
 
 <!-- Modal Three-->
-<div class="modal fade" id="projectThree" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="projectThree" tabindex="-1" role="dialog" >
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header center-text">
-                <span>Project Three</span>
+                <span>Guardian Holy Water</span>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span>&times;</span>                
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/sm-bridge-city.jpg" class="img-fluid" />
+                <a href="http://christopherparke.com/holy" target="_blank">
+                    <img src="img/op/holy.jpg" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
+                </a>
+            </div>
+            <div class="card">
+                <p class="card-text center-text"></p>
             </div>
         </div>
     </div>
@@ -113,11 +118,11 @@
 
 
 
+<!--
 
+This is a dark-humored, funny yet functional WW3 notification app. The application will notify you with an alarm in the event that WW3 breaks out.  In the meantime, you can click the button to check the status of the next Great War.
 
-
-
-
+-->
 
 
 

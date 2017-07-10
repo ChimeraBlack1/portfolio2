@@ -1,9 +1,9 @@
 <!-- About Me -->
 <div class="container">
     <section class="section p-t-3" id="about">
-        <h1 class="section-heading custom-section-heading">
+        <h2 class="section-heading custom-section-heading">
             About me
-        </h1>
+        </h2>
         
         <div class="row">
             <div class="col-lg-4"  data-toggle="modal" data-target="#projectOne">
