@@ -159,6 +159,17 @@
 	margin-top:2em;
 }
 
+.modalCard {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.bold {
+    font-weight: 800;
+    text-align: center;
+    margin: -25px auto 25px auto;
+}
+
 
 
 /* Successful mail sent message */

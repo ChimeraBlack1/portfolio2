@@ -23,9 +23,6 @@
             </ul>
             <ul class="nav navbar-nav float-sm-right hidden-xs">
                 <li class="nav-item float-xs-left">
-                    <a class="nav-link" href="" target="_blank"><i class="fa fa-facebook"></i></a>
-                </li>
-                <li class="nav-item float-xs-left">
                     <a class="nav-link" href="https://github.com/ChimeraBlack1" target="_blank"><i class="fa fa-github"></i></a>
                 </li>
                 <li class="nav-item float-xs-left">

@@ -6,7 +6,7 @@
         </h2>
         
         <div class="row">
-            <div class="col-lg-4"  data-toggle="modal" data-target="#projectOne">
+            <div class="col-lg-4"  data-toggle="modal" data-target="#photo">
                 <img src="img/op/bigbar.jpg" alt="photo" class="custom-fluid-img ">
             </div>
             <div class="col-lg-6 col-lg-offset-2">
