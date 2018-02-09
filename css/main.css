@@ -5,7 +5,8 @@
 
 .custom-nav-bg {
     background-color: transparent!important;
-    box-shadow: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
 }
 
 .custom-nav-bg li {
@@ -20,17 +21,11 @@
 
 .view {
     background: url("../img/op/bg.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 }
 
 .quote {
     background: url("../img/op/quoteBG.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     height: 250px; 
     position: relative;
@@ -69,14 +64,18 @@
 
 .scrolling-navbar {    
     padding: 1.5rem 1rem;
+    -webkit-transition: background-color 600ms, padding 0.4s;
+    -o-transition: background-color 600ms, padding 0.4s;
     transition: background-color 600ms, padding 0.4s;
-    transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+         -o-transition-timing-function: ease-in-out;
+            transition-timing-function: ease-in-out;
         /*cubic-bezier(.66,-0.39,.42,1.52);*/
 }
 
 .small {
     padding: 0.75rem;
-	font-size: 1.2em!important;
+    font-size: 1.2em!important;
 }
 
 .navbar ul {
@@ -92,7 +91,7 @@
 }
 
 .p-t-2 {
-	padding-top: 2rem;
+    padding-top: 2rem;
 }
 
 .p-t-3 {
@@ -129,7 +128,8 @@
 }
 
 .custom-skills {
-    box-shadow: 0!important;
+    -webkit-box-shadow: 0!important;
+            box-shadow: 0!important;
 }
 
 .custom-quote {
@@ -156,7 +156,7 @@
 }
 
 .custom-button {
-	margin-top:2em;
+    margin-top:2em;
 }
 
 .modalCard {
@@ -175,14 +175,14 @@
 /* Successful mail sent message */
 
 span {
-	display: inline-block;
+    display: inline-block;
 }
 
 
 .successMessage {
-	margin: 0 auto;
-	max-width: 250px;
-	font-size: 2em;
+    margin: 0 auto;
+    max-width: 250px;
+    font-size: 2em;
 }
 
 
@@ -232,6 +232,5 @@ span {
         font-size: 1.35rem;
     }
 }
-
 
 

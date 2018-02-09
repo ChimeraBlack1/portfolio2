@@ -8,18 +8,35 @@
             <div class="col-md-12">
                 <!-- Gallery Row 1 -->
                 <div class="col-md-4">
+                    <a href="#" data-toggle="modal" data-target="#projectTwo">
+                        <img src="img/op/gameOP.jpg" class="img-fluid" alt="Triple Triad Remake"/>
+                    </a>                
+                </div>
+                <div class="col-md-4">
+                    <a href="#" data-toggle="modal" data-target="#projectFive">
+                        <img src="img/op/encOP.png" class="img-fluid" alt="Even-Number Calculator"/>
+                    </a>
+                </div>
+                <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectOne" >
                         <img src="img/op/mmtOP.jpg" class="img-fluid" alt="Meadowvale Musical Theatre profile page." />
                     </a>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" data-toggle="modal" data-target="#projectTwo">
-                        <img src="img/op/gameOP.jpg" class="img-fluid" alt="Triple Triad Remake"/>
-                    </a>
-                </div>
+                <!-- /Gallery Row 1 -->
+                                <!-- Gallery Row 1 -->
                 <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectThree">
                         <img src="img/op/holy.jpg" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                     <a href="#" data-toggle="modal" data-target="#projectFour" >
+                        <img src="img/op/ww3OP.png" class="img-fluid" alt="World War 3 Notifier" />
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="#" data-toggle="modal" data-target="#projectSix">
+                        <img src="img/op/ebkOP.png" class="img-fluid" alt="Etobicoke Bookkeeping"/>
                     </a>
                 </div>
                 <!-- /Gallery Row 1 -->
@@ -111,21 +128,85 @@
 
 
 <!-- Modal Four-->
-<div class="modal fade" id="photo" tabindex="-1" role="dialog">
+<div class="modal fade" id="projectFour" tabindex="-1" role="dialog" >
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header center-text">
+                <span>World War 3 Notifier</span>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span>&times;</span>                
                 </button>
             </div>
             <div class="modal-body">
-                <img src="img/op/bigbar.jpg" class="img-fluid" alt="Meadowvale Musical Theatre profile page."/>
-            </div>            
+                <a href="http://christopherparke.com/ww3" target="_blank">
+                    <img src="img/op/ww3OP.png" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
+                </a>
+            </div>
+            <p class="bold">Click the Image to view the project</p>
+            <div class="card">
+                <p class="card-text center-text modalCard">
+                    This is a dark-humored, funny yet functional WW3 notification app. The application will notify you with an alarm in the event that WW3 breaks out.  In the meantime, you can click the button to check the status of the next Great War.
+                </p>
+            </div>
         </div>
     </div>
 </div>
 <!-- /Modal Four-->
+
+
+<!-- Modal Five-->
+<div class="modal fade" id="projectFive" tabindex="-1" role="dialog" >
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header center-text">
+                <span>Even-Number Calculator</span>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span>&times;</span>                
+                </button>
+            </div>
+            <div class="modal-body">
+                <a href="http://christopherparke.com/calc" target="_blank">
+                    <img src="img/op/encOP.png" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
+                </a>
+            </div>
+            <p class="bold">Click the Image to view the project</p>
+            <div class="card">
+                <p class="card-text center-text modalCard">
+
+                    This project was created as a "taking a question on a test another step" -- for fun. The original question was just to interpret some pseudo code and figure out what the range of a formula would be. I started playing around with the idea of an "even number" calculator that manipulates ranges of numbers -- So I put one together in React.js
+                   
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Modal Five-->
+
+<!-- Modal Five-->
+<div class="modal fade" id="projectSix" tabindex="-1" role="dialog" >
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header center-text">
+                <span>Etobicoke Bookkeeping</span>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span>&times;</span>                
+                </button>
+            </div>
+            <div class="modal-body">
+                <a href="http://christopherparke.com/ebk" target="_blank">
+                    <img src="img/op/ebkOP.png" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
+                </a>
+            </div>
+            <p class="bold">Click the Image to view the project</p>
+            <div class="card">
+                <p class="card-text center-text modalCard">
+                    This is a site I was creating for an old bookkeeping company I was creating.  I decided to go a different way so it remains a work in progress.                 
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Modal Five-->
 
 
 <!-- 
@@ -140,7 +221,6 @@
 
 <!--
 
-This is a dark-humored, funny yet functional WW3 notification app. The application will notify you with an alarm in the event that WW3 breaks out.  In the meantime, you can click the button to check the status of the next Great War.
 
 -->
 

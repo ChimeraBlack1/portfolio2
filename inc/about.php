@@ -11,16 +11,16 @@
             </div>
             <div class="col-lg-6 col-lg-offset-2">
                 <p class="lead p-t-1">
-                    I'm a Front End developer with 2 years of experience -- based in Toronto, ON.
+                    Part Bookkeeper, Part Web Developer
                 </p>
                 <p>
                     <span>
-                        I believe that working with code is like being a wizard.  Instead of a spellbook, I have a box made of refined dinosaur bone that's powered by lightning.
+                        Hi my name is Chris, and I am a hybrid bookkeeper and web developer.  I have achieved my CGA Level 3, and have over 7 years of experience as a professional bookkeeper.  I have worked with clients ranging in size from small business to billion-dollar corporate trusts. 
                     </span>
                 </p>
                 <p>
                     <span>
-                         By moving my fingers in patterns on the keys, I am able to cast spells limited only by my mind. Web Developer is far too bland a term for something so wonderous.  No -- I'm a Wizard.
+                         I have also taught myself various OOP programming languages such as JavaScript, Java, C#, Python and PHP.   I am ranked in the top 0.0025% (top 1,000 out of 400,000+) of web developers on <a href="https://teamtreehouse.com">Treehouse</a> -- one of the most popular websites for learning web development online.
                     </span>
                 </p>
             </div>
