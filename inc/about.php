@@ -20,8 +20,11 @@
                 </p>
                 <p>
                     <span>
-                         I have also taught myself various OOP programming languages such as JavaScript, Java, C#, Python and PHP.   I am ranked in the top 0.0025% (top 1,000 out of 400,000+) of web developers on <a href="https://teamtreehouse.com">Treehouse</a> -- one of the most popular websites for learning web development online.
+                         I have also taught myself various OOP programming languages such as JavaScript, Java, C#, Python and PHP.   I am ranked in the top 0.0025% (top 1,000 out of 400,000+) of web developers on <a href="https://teamtreehouse.com">Treehouse</a> -- one of the most popular websites for learning web development online.  
                     </span>
+                </p>
+                <p>
+                    <span>Please see below for some examples of my work.</span>
                 </p>
             </div>
         </div>
