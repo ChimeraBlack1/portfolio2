@@ -67,9 +67,9 @@
                 </a>
             </div>            
             <p class="bold">Click the Image to view the project</p>
-            <div class="card">
+            
                 <p class="card-text center-text modalCard">This project was completed for the Meadowvale Music theatre group. This website was built using Bootstrap, jQuery and JavaScript. The form validation is PHP.</p>
-            </div>
+            
         </div>
     </div>
 </div>
@@ -91,9 +91,9 @@
                 </a>
             </div>
             <p class="bold">Click the Image to view the project</p>
-            <div class="card">
+
                 <p class="card-text center-text modalCard">This is my own personal remake of a favourite mini-game from Final Fantasy 8.  The AI is hand crafted in JavaScript and jQuery.  No framework was used on this version of the project.  I wanted to achieve a responsive design that existed completely above the fold, and felt as close to a native game as possible.</p>
-            </div>
+
         </div>
     </div>
 </div>
@@ -143,11 +143,11 @@
                 </a>
             </div>
             <p class="bold">Click the Image to view the project</p>
-            <div class="card">
+            
                 <p class="card-text center-text modalCard">
                     This is a dark-humored, funny yet functional WW3 notification app. The application will notify you with an alarm in the event that WW3 breaks out.  In the meantime, you can click the button to check the status of the next Great War.
                 </p>
-            </div>
+            
         </div>
     </div>
 </div>
@@ -170,13 +170,13 @@
                 </a>
             </div>
             <p class="bold">Click the Image to view the project</p>
-            <div class="card">
+            
                 <p class="card-text center-text modalCard">
 
                     This project was created as a "taking a question on a test another step" -- for fun. The original question was just to interpret some pseudo code and figure out what the range of a formula would be. I started playing around with the idea of an "even number" calculator that manipulates ranges of numbers -- So I put one together in React.js
                    
                 </p>
-            </div>
+            
         </div>
     </div>
 </div>
@@ -198,11 +198,11 @@
                 </a>
             </div>
             <p class="bold">Click the Image to view the project</p>
-            <div class="card">
+            
                 <p class="card-text center-text modalCard">
                     This is a site I was creating for an old bookkeeping company I was creating.  I decided to go a different way so it remains a work in progress.                 
                 </p>
-            </div>
+            
         </div>
     </div>
 </div>
