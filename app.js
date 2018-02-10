@@ -28,10 +28,7 @@ function ScrollingNavbar() {
 
 /*CLOSE NAV ONCE OPTION CLICKED ON PHONE*/
 
-function NavClose() {
-	$('#collapseButton').addClass('collapsed');
-	console.log("yes this works");
-}
+
 
 $(document).ready(function () {
 	$('form').submit(function () {
