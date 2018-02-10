@@ -20,6 +20,7 @@ $(function() {
 function ScrollingNavbar() {
     if(document.body.scrollTop > 50){
         $('.scrolling-navbar').addClass('dark-blue small');
+        console.log("fuckyou");
 
     } else if (document.body.scrollTop < 50){
         $('.scrolling-navbar').removeClass('dark-blue small');
