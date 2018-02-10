@@ -18,14 +18,19 @@ $(function() {
 
 /* Scrolling header */
 function ScrollingNavbar() {
-    if(document.body.scrollTop > 50){
+    if(document.documentElement.scrollTop > 50){
         $('.scrolling-navbar').addClass('dark-blue small');
-        console.log("fuckyou");
 
-    } else if (document.body.scrollTop < 50){
+    } else if (document.documentElement.scrollTop < 50){
         $('.scrolling-navbar').removeClass('dark-blue small');
-        
     }
+}
+
+/*CLOSE NAV ONCE OPTION CLICKED ON PHONE*/
+
+function NavClose() {
+	$('#collapseButton').addClass('collapsed');
+	console.log("yes this works");
 }
 
 $(document).ready(function () {

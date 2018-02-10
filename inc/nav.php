@@ -7,8 +7,8 @@
         <div class="collapse navbar-toggleable-xs" id="collapseButton">
             <a class="navbar-brand custom-navbrand" href="#top">Christopher Parke</a>
             <ul class="nav navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="#about">About</a>
+                <li class="nav-item" onclick="NavClose()">
+                    <a class="nav-link" href="#about" onclick="NavClose()">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#skills">Skills
