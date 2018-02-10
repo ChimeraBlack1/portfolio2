@@ -164,6 +164,10 @@
     margin: 0 auto;
 }
 
+.modalDescription {
+    margin-bottom: 0.5em;
+}
+
 .bold {
     font-weight: 800;
     text-align: center;

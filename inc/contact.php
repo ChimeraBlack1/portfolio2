@@ -1,7 +1,6 @@
 <section class="section p-b-3 p-t-3" id="contact">
     <h2 class="section-heading custom-section-heading">Contact me</h2>
     <p class="section-description">
-   Thanks for coming! If you'd like to get in touch with me, please let me know by either emailing me or filling out the below contact form.  You can find my email at the bottom of the page.  Cheers! 
     </p>
 	
 	

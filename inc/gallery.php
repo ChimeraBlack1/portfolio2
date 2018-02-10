@@ -2,7 +2,7 @@
     <h2 class="section-heading custom-section-heading">
         Portfolio
     </h2>
-    <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, and React.js.  </p>
+    <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, and React.js.</p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -68,7 +68,7 @@
             </div>            
             <p class="bold">Click the Image to view the project</p>
             
-                <p class="card-text center-text modalCard">This project was completed for the Meadowvale Music theatre group. This website was built using Bootstrap, jQuery and JavaScript. The form validation is PHP.</p>
+                <p class="card-text center-text modalCard modalDescription">This project was completed for the Meadowvale Music theatre group. This website was built using Bootstrap, jQuery and JavaScript. The form validation is PHP.</p>
             
         </div>
     </div>
@@ -92,7 +92,7 @@
             </div>
             <p class="bold">Click the Image to view the project</p>
 
-                <p class="card-text center-text modalCard">This is my own personal remake of a favourite mini-game from Final Fantasy 8.  The AI is hand crafted in JavaScript and jQuery.  No framework was used on this version of the project.  I wanted to achieve a responsive design that existed completely above the fold, and felt as close to a native game as possible.</p>
+                <p class="card-text center-text modalCard modalDescription">This is my own personal remake of a favourite mini-game from Final Fantasy 8.  The AI is hand crafted in JavaScript and jQuery.  No framework was used on this version of the project.  I wanted to achieve a responsive design that existed completely above the fold, and felt as close to a native game as possible.</p>
 
         </div>
     </div>
@@ -117,7 +117,7 @@
             </div>
             <p class="bold">Click the Image to view the project</p>
             <div class="card">
-                <p class="card-text center-text modalCard">
+                <p class="card-text center-text modalCard modalDescription">
                     This is a single page application (SPA) built using the React.js framework.  It also utilizes react-bootstrap, react-toolbox and modular css.
                 </p>
             </div>
@@ -144,7 +144,7 @@
             </div>
             <p class="bold">Click the Image to view the project</p>
             
-                <p class="card-text center-text modalCard">
+                <p class="card-text center-text modalCard modalDescription">
                     This is a dark-humored, funny yet functional WW3 notification app. The application will notify you with an alarm in the event that WW3 breaks out.  In the meantime, you can click the button to check the status of the next Great War.
                 </p>
             
@@ -171,7 +171,7 @@
             </div>
             <p class="bold">Click the Image to view the project</p>
             
-                <p class="card-text center-text modalCard">
+                <p class="card-text center-text modalCard modalDescription">
 
                     This project was created as a "taking a question on a test another step" -- for fun. The original question was just to interpret some pseudo code and figure out what the range of a formula would be. I started playing around with the idea of an "even number" calculator that manipulates ranges of numbers -- So I put one together in React.js
                    
@@ -199,7 +199,7 @@
             </div>
             <p class="bold">Click the Image to view the project</p>
             
-                <p class="card-text center-text modalCard">
+                <p class="card-text center-text modalCard modalDescription">
                     This is a site I was creating for an old bookkeeping company I was creating.  I decided to go a different way so it remains a work in progress.                 
                 </p>
             
