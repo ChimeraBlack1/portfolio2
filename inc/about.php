@@ -20,7 +20,9 @@
                 </p>
                 <p>
                     <span>
-                         I have also taught myself various languages like HTML5, CSS3, JavaScript, Java, C#, Python and PHP.  I am ranked in the top 0.0025% (top 1,000 out of 400,000+) of web developers on <a  href="https://teamtreehouse.com/christopherparke" target="_blank">Treehouse</a> -- one of the most popular websites for learning web development online.  
+                         I am self-taught when it comes to web development, and I've learned various languages like HTML5, CSS3, JavaScript, Java, C#, Python and PHP. Early on I learned how to use the bootstrap framework,and actually made this site with some help from jQuery.  Now I prefer to use React.js because of the performance of the virtual DOM, as well as the modular approach to building web components.<br/> 
+                         
+                         Part of how I taught myself to code was through a site called <a  href="https://teamtreehouse.com/christopherparke" target="_blank">Treehouse</a> -- one of the most popular platforms for learning to code. I am ranked in the top 0.0025% (top 1,000 out of 400,000+) of web developers on <a  href="https://teamtreehouse.com/christopherparke" target="_blank">Treehouse</a> and continue learning to this day.
                     </span>
                 </p>
             </div>
