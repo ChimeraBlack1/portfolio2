@@ -168,6 +168,11 @@
     margin-bottom: 1.25em !important;
 }
 
+.killMarginLeftRight {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+
 .bold {
     font-weight: 800;
     text-align: center;
