@@ -6,7 +6,7 @@
         </h2>
         
         <div class="row">
-            <div class="col-lg-6 m-b-3"  data-toggle="modal" data-target="#photo">
+            <div class="col-lg-6 p-b-3"  data-toggle="modal" data-target="#photo">
                 <img src="img/op/bigbar.jpg" alt="photo" class="custom-fluid-img ">
             </div>
             <div class="col-lg-6  section-description killMarginLeftRight">
@@ -17,7 +17,7 @@
                 </p>
                 <p>
                     <span>
-                         I am self-taught when it comes to web development, and I've learned various languages like HTML5, CSS3, JavaScript, Java, C#, Python and PHP. Early on I learned how to use the bootstrap framework with jQuery,and actually used it to make this site.  These days I tend to use React.js because of the performance of the virtual DOM, as well as the modular approach to building web components.
+                         I am self-taught when it comes to web development, and I've learned various languages like HTML5, CSS3, JavaScript, Java, C#, Python and PHP. Early on I learned how to use the bootstrap framework with jQuery, and actually used it to make this site.  These days I tend to use React.js and the MERN stack most because of the performance of the virtual DOM, as well as the modular approach to building web components.  Not to mention I just enjoy writing in JSX.
                     </span>
                 </p>
 
