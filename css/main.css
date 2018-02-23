@@ -183,7 +183,7 @@
 
     white-space: nowrap;
     overflow: hidden;
-    animation: type .75s steps(17,end);
+    animation: type 1.15s steps(17,end);
     width: 10em;
 }
 
