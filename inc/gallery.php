@@ -2,7 +2,7 @@
     <h2 class="section-heading custom-section-heading">
         Portfolio
     </h2>
-    <p class="section-description">Below are some of my most recent projects.  I created these sites by hand using various technologies like Bootstrap, jQuery, and React.js.</p>
+    <p class="section-description">Below are some of my most recent projects.  I created these sites using various technologies like Bootstrap, jQuery, and React.js.</p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -22,9 +22,9 @@
                         <img src="img/op/mmtOP.jpg" class="img-fluid" alt="Meadowvale Musical Theatre profile page." />
                     </a>
                 </div>
-                <!-- /Gallery Row 1 -->
-                                <!-- Gallery Row 1 -->
-                <div class="col-md-4">
+                <!-- /Gallery Row 2 -->
+                                <!-- Gallery Row 2 -->
+                <!-- <div class="col-md-4">
                     <a href="#" data-toggle="modal" data-target="#projectThree">
                         <img src="img/op/holy.jpg" class="img-fluid" alt="Guardian Holy Water - The finest Holy Water in the land"/>
                     </a>
@@ -39,8 +39,8 @@
                         <img src="img/op/ebkOP.png" class="img-fluid" alt="Etobicoke Bookkeeping"/>
                     </a>
                 </div>
-                <!-- /Gallery Row 1 -->
-            </div>
+             -->
+            </div> 
         </div>
     </div>
 </section>
